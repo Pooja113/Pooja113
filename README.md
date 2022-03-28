@@ -2,7 +2,7 @@
 
 ### About Me
 🎓 I have done Masters in Computer Applications. <br/>
-🤹‍♀️ Recently, I discovered about Open-Source contribution and now I am an enthusiastic learner. I started loving coding. <br/>
+🤹‍♀️ Recently, I discovered about Open-Source contribution. I started loving coding. <br/>
 👩 I have worked on WordPress. I know Javascript and PHP.
 
 ### Current Status 🎇
