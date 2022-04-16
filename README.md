@@ -4,6 +4,7 @@
 🎓 I have done Masters in Computer Applications. <br/>
 🤹‍♀️ Recently, I discovered about Open-Source contribution. I started loving coding. <br/>
 👩 I have worked on WordPress. I know Javascript and PHP.
+I am also working on React/ React  - Redux / NodeJs/ ExpressJs/MongoDB
 
 ### Current Status 🎇
 - Currently, I am learning DSA and am in love with Leetcode.<br/>
