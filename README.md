@@ -10,6 +10,7 @@ I am also working on React/ React  - Redux / NodeJs/ ExpressJs/MongoDB
 - Currently, I am learning DSA and am in love with Leetcode.<br/>
 - I am working on an application in react. <br/>
 - I am also creating a custom plugin in WordPress. <br/>
+- Created AMAZON CLONE app using reactjs.
 
 <a href="https://www.linkedin.com/in/pooja-paul-aa0aaba9/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
