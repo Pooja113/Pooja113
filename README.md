@@ -21,7 +21,7 @@ I am working with React/ React-Redux / NodeJs/ ExpressJs (Pug Template Engine )/
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCeNQcCZ-XFjGdxSI0K2E_TA">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 
