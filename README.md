@@ -2,14 +2,19 @@
 
 ### About Me
 🎓 I have done Masters in Computer Applications. <br/>
-🤹‍♀️ Recently, I discovered about Open-Source contribution. Sharing helps us to improve so started to share the work on Youtube. <br/>
-👩 I have worked on WordPress and PHP for 4 years. Now I have worked on Javascript.
-I am working with React/ React-Redux / NodeJs/ ExpressJs (Pug Template Engine )/MongoDB / Mongoose / Tailwind 
+👩‍⚖️ I have worked on WordPress and PHP for 4 years. <br> 
+👩‍✈️ Now I have starting working on Javascript/ React/ React-Redux / NodeJs/ ExpressJs (Pug Template Engine )/MongoDB / Mongoose / Tailwind CSS / Firebase / Heroku
+🤹‍♀️ Recently, I discovered about Open-Source contribution.<br />
+ - Sharing helps us to improve. Even, I have learn from open-sources so I will be sharing a lot in here on Github and on Youtube. <br /> 
 
 ### Current Status 🎇
-- Sometimes I spend time on Leetcode for DSA.<br/>
-- I am working on a job portal application using REACT/ Context API/ FIREBASE. <br/>
-- Created AMAZON CLONE app using REACTJS/ Context API/ FIREBASE 
+- Sometimes I spend time on Leetcode for DSA. Only SOMETIMES !! 😁 <br/>
+- I am working on a job portal application using REACT/ NODEJS / EXPRESS/ REDUX / MONGODB / MONGOOSE 
+- In the beginning, I created AMAZON / Whatsapp / Tik-Tok/ Tinder and LinkedIn CLONE app using REACTJS/ Context API/ FIREBASE / NODEJS / Mongodb and while creating these apps i have learned a lot, you can also have a look.
+
+
+## Connect with me
+
 <a href="https://www.linkedin.com/in/pooja-paul-aa0aaba9/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
