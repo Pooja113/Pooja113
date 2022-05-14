@@ -11,7 +11,7 @@
 - Sometimes I spend time on Leetcode for DSA. Only SOMETIMES !! 😁 <br/>
 - I am working on a job portal application using REACT/ NODEJS / EXPRESS/ REDUX / MONGODB / MONGOOSE 
 - In the beginning, I created AMAZON / Whatsapp / Tinder and LinkedIn CLONE app using REACTJS/ Context API/ FIREBASE / NODEJS / Mongodb and while creating these apps i have learned a lot, you can also have a look.
-- Learning NextJs and BlockChain
+- Learning NextJs and BlockChain/Solidity/Ethereum
 
 
 ## Connect with me
