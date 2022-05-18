@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/pooja-paul-aa0aaba9/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/brownbird135">
+<a href="https://twitter.com/slowloris135">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:poojapaul.92@gmail.com">
