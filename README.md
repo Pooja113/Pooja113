@@ -1,4 +1,4 @@
-# Hello, I am Pooja Paul !!  
+# Hello, I am Pooja Paul !!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="13px"> 
 
 ### About Me
 🎓 I have done Masters in Computer Applications. <br/>
