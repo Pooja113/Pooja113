@@ -8,7 +8,7 @@
  - Sharing helps us to improve. Even, I have learn from open-sources so I will be sharing a lot in here on Github and on Youtube. <br /> 
 
 ### Current Status 🎇
-- Sometimes I spend time on Leetcode for DSA. Only SOMETIMES !! 😁 <br/>
+- Sometimes I spend time on Leetcode for DSA!! <br/>
 - I have quite a few projects using MERN / WORDPRESS / BLOCKCHAIN
 - Trying my hands on NextJs as well as BlockChain/Solidity/Ethereum/Moralis/MetaMask/Metaverse/Web3.0 
 
