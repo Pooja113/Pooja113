@@ -3,7 +3,7 @@
 ### About Me
 🎓 I have done Masters in Computer Applications. <br/>
 👩‍⚖️ I have worked on WordPress and PHP for almost 2 years. <br/> 
-👩‍✈️ I have been working with Javascript / ReactJs / React-Redux / NodeJs / ExpressJs (Pug Template Engine )/ MongoDB / Mongoose / Tailwind CSS / Firebase / Laravel / Heroku / SocketIO for almost 6 months now.<br />
+👩‍✈️ I have been working with Javascript / ReactJs / React-Redux / NodeJs / ExpressJs (Pug Template Engine )/ MongoDB / Mongoose / Tailwind CSS / Firebase / Laravel / Heroku / SocketIO for almost 1 year now.<br />
 🤹‍♀️ Recently, I discovered about Open-Source contribution.<br />
  - Sharing helps us to improve. Even, I have learn from open-sources so I will be sharing a lot in here on Github and on Youtube. <br /> 
 
