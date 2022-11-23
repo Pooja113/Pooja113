@@ -4,13 +4,14 @@
 🎓 I have done Masters in Computer Applications. <br/>
 👩‍⚖️ I have worked on WordPress and PHP for almost 2 years. <br/> 
 👩‍✈️ I have been working with Javascript / ReactJs / React-Redux / NodeJs / ExpressJs (Pug Template Engine )/ MongoDB / Mongoose / Tailwind CSS / Firebase / Laravel / Heroku / SocketIO for almost 1 year now.<br />
-🤹‍♀️ Recently, I discovered about Open-Source contribution.<br />
+🤹‍♀️ Recently, I discovered about Open-Source contribution and Hackathon.<br />
  - Sharing helps us to improve. Even, I have learn from open-sources so I will be sharing a lot in here on Github and on Youtube. <br /> 
 
 ### Current Status 🎇
 - Sometimes I like to spend time on Leetcode for DSA!! <br/>
-- I have quite a few projects using MERN / WORDPRESS / BLOCKCHAIN
+- I have quite a few projects using MERN / WORDPRESS 
 - Trying my hands on NextJs as well as BlockChain / Solidity / Ethereum / Moralis / MetaMask / Metaverse / Web3.0 
+- I am learning Typescript and NextJS as well.
 
 Portfolio: https://github.com/Pooja113/Portfolio
 
