@@ -1,17 +1,19 @@
 # Hello, I am Pooja Paul !!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="13px"> 
 
 ### About Me
-🎓 I have done Masters in Computer Applications. <br/>
-👩‍⚖️ I have worked on WordPress and PHP for almost 2 years. <br/> 
-👩‍✈️ I have been working with Javascript / ReactJs / React-Redux / NodeJs / ExpressJs (Pug Template Engine )/ MongoDB / Mongoose / Tailwind CSS / Firebase / Laravel / Heroku / SocketIO for almost 1 year now.<br />
-🤹‍♀️ Recently, I discovered about Open-Source contribution and Hackathon.<br />
- - Sharing helps us to improve. Even, I have learn from open-sources so I will be sharing a lot in here on Github and on Youtube. <br /> 
+🎓 MCA graduate with a passion for software development and web technologies <br/> 
+💼 Full Stack Developer with 2 years of experience in IT Industry, one year experience in WordPress and one in MERN stack <br/> 
+ - On the front-end, I enjoy creating clean and intuitive user interfaces using modern frameworks and libraries like React.js,NextJs
+ - On the back-end, I am proficient in server-side technologies such as Node.js and ExpressJs, leveraging their power to develop efficient APIs and server logic. I have experience working with databases like MongoDB and MySQL, ensuring secure and seamless data management.
+🌱 Always learning and exploring new technologies to stay up-to-date
+ 
 
 ### Current Status 🎇
 - Sometimes I like to spend time on Leetcode for DSA!! <br/>
 - I have quite a few projects using MERN / WORDPRESS 
 - Trying my hands on NextJs as well as BlockChain / Solidity / Ethereum / Moralis / MetaMask / Metaverse / Web3.0 
 - I am learning Typescript and NextJS as well.
+- 👩‍✈️ I have been working with Javascript / ReactJs / React-Redux / NodeJs / ExpressJs (Pug Template Engine )/ MongoDB / Mongoose / Tailwind CSS / Firebase / Laravel / Heroku / SocketIO for almost 1 year now.<br />
 
 Portfolio: https://github.com/Pooja113/Portfolio
 
