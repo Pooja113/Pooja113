@@ -1,4 +1,4 @@
-# Hello, I am Pooja Paul !!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="13px"> 
+# Hello, I am Pooja Paul !!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px"> 
 
 ### About Me
 🎓 MCA graduate with a passion for software development and web technologies <br/> 
