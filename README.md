@@ -1,8 +1,8 @@
 # Hello, I am Pooja Paul !!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> 
 
 ### About Me
-🎓 MCA graduate with a passion for software development and web technologies <br/> 
-💼 Full Stack Developer with 2 years of experience in IT Industry, one year experience in WordPress and one in MERN stack <br/> 
+🎓 MCA with a passion for software development and web technologies <br/> 
+💼 Full Stack Developer with 5 years of experience as a backend developer and has majorly worked with Nodejs<br/> 
   - On the front end, I enjoy creating clean and intuitive user interfaces using modern frameworks and libraries like React.js, NextJs
   - On the back end, I am proficient in server-side technologies such as Node.js and ExpressJs, leveraging their power to develop 
     efficient APIs and server logic. I have experience working with databases like MongoDB and MySQL, ensuring secure and seamless data 
