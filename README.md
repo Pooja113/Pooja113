@@ -2,10 +2,10 @@
 
 ### About Me
 🎓 MCA with a passion for software development and web technologies <br/> 
-💼 Full Stack Developer with 5 years of experience as a backend developer and has majorly worked with Nodejs<br/> 
+💼 Full Stack Developer with 3 years of experience as a MERN Stack developer and has majorly worked with Nodejs<br/> 
   - On the front end, I enjoy creating clean and intuitive user interfaces using modern frameworks and libraries like React.js, NextJs
   - On the back end, I am proficient in server-side technologies such as Node.js and ExpressJs, leveraging their power to develop 
-    efficient APIs and server logic. I have experience working with databases like MongoDB and MySQL, ensuring secure and seamless data 
+    efficient APIs and server logic. I have experience working with databases like MongoDB and PostgreSQL, ensuring secure and seamless data 
     management. <br />
 🌱 Always learning and exploring new technologies to stay up-to-date <br />
  
@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/pooja-paul-aa0aaba9/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/poojapaul135">
+<a href="https://x.com/PoojaPaul251791">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:poojapaul.92@gmail.com">
