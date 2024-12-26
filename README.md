@@ -2,7 +2,7 @@
 
 ### About Me
 🎓 MCA with a passion for software development and web technologies <br/> 
-💼 Full Stack Developer with 3 years of experience as a Web Developer. For the past 1.5 years, I have been working as a MERN Stack developer and have majorly worked with Nodejs<br/> 
+💼 Full Stack Developer with 3 years of experience as a Web Developer. For the past 2 years, I have been working as a MERN Stack developer and have majorly worked with Nodejs <br/> 
   - On the front end, I enjoy creating clean and intuitive user interfaces using modern frameworks and libraries like React.js, NextJs
   - On the back end, I am proficient in server-side technologies such as Node.js and ExpressJs, leveraging their power to develop 
     efficient APIs and server logic.
@@ -14,7 +14,7 @@
 💻 Programming Languages: Javascript | Php <br />
 🌐 Web Development: ReactJs | Redux | NodeJs | ExpressJs | TailWind | NextJs | TypeScript | WordPress | WebRTC <br />
 📚 Databases: MongoDB | PostgreSQL | Mysql <br />
-⚙️ Other Tools: Docker | Firebase | Git | GitHub | GitLab <br />
+⚙️ Other Tools: Docker | Firebase | Git | GitHub | GitLab | Bitbucket <br />
  - Also Interested in learning BlockChain / Solidity / Ethereum / Moralis / MetaMask / Metaverse / Web3.0 <br />
 
 
